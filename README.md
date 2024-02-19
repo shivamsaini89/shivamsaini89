@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivamsaini89
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me - sainishivam221@gmail.com
 
